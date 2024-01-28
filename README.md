@@ -1,1 +1,3 @@
-This project is all in serbian
+Analiza Kvaliteta Filmova u Poslednjih 10 Godina
+
+Ovaj projekat ima za cilj identifikaciju godine, u poslednjih 10, u kojoj je snimljeno najviše visoko-ocenjenih filmova. Korišćenjem podataka iz IMDb baze, izdvojio sam filmove snimljene u periodu od 2014. do 2023. godine. Filmove sam filtrirao na osnovu ocena, uzimajući u obzir i broj glasova, te zaključio da je 2014. godina najuspešnija, što je prikazano trakastim dijagramom. Takođe, primetan je značajan pad u broju filmova u 2020. godini, verovatno usled pandemije koronavirusa. Nakon toga takođe primećujemo manji broj visoko-ocenjenih filmova. Treba tražiti uzrok tome, jedan od odgovora bi možda bila lošija ekonomska situacija.
